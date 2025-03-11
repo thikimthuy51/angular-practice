@@ -1,0 +1,10 @@
+.toggle-container {
+  width: 50px;
+  background-color: red;
+  height: 50px;
+  border-radius: 100px;
+}
+
+.toggle-container.checked {
+  background-color: #4caf50;
+}
